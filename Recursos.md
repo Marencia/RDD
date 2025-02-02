@@ -6,4 +6,6 @@ TDM sincrónico y estadístico:
 
 ## Flashcards ##
 
+[Conceptos generales](https://app.tichacademy.com/flashcards/cm6o4iq210g0nus96o2cnjb99)
+
 [Modelo OSI](https://app.tichacademy.com/flashcards/cm6o4iq210g0nus96o2cnjb99)
